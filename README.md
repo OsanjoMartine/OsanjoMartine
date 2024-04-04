@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OsanjoMartine
 - 👀 I’m a software engineer with a specialty in web developement.
-- 🌱 I’m currently learning Software Enginnering at ALX
 - 💞️ I’m looking to collaborate on open source javascript projects and work.
 - 📫 How to reach me osanjomartine@gmail.com
 
